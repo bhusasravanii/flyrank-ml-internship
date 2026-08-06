@@ -31,14 +31,14 @@ Linear Regression
 ## Evaluation Metrics
 
 MAE:
-(Add output)
+0.8008683012800075
 
 RMSE:
-(Add output)
+3.0219915606666947
 
 R2 Score:
-(Add output)
+0.12151269919632524
 
 ## Conclusion
 
-A regression model was successfully developed to predict CTR based on content characteristics and historical performance data.
+A regression model was successfully developed to predict CTR based on content characteristics and historical performance data. The baseline Linear Regression model achieved an MAE of 0.8009, an RMSE of 3.0220, and an R² score of 0.1215. These results provide a baseline that can be improved further by experimenting with more advanced regression models and additional feature engineering.
